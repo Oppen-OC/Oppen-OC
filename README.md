@@ -4,9 +4,16 @@
 
 MSc student in Artificial Intelligence & Big Data at Universitat Politècnica de València (UPV), finishing my master's thesis. BSc in Computer Engineering (UPV, 2025).
 
-I build data pipelines end to end: batch and streaming ingestion, modelling, data quality and serving, reproducible with Docker and tested in CI. Open to Data Engineering roles.
+I build data pipelines end to end (batch and streaming ingestion, modelling, data quality and serving) and the ML and LLM layer on top, reproducible with Docker and tested in CI. Open to Data Engineering roles.
 
 [LinkedIn](https://www.linkedin.com/in/daniel-alpenes-de-lucca/)
+
+## Experience
+
+- **Data Scientist** · Solver Intelligent Analytics · Jan–Jul 2026 — Built all data ingestion and cleaning for a subscription product: ETL pipelines over 600M+ rows on AWS Redshift with Polars. Trained about 20 XGBoost models and built the FastAPI service that serves them.
+- **Python Developer** · Solver Intelligent Analytics · Sep 2025–Jan 2026 — Automated API testing platform in Django for a banking-sector client, replacing manual regression checks.
+- **Data & Software Intern** · Generalitat Valenciana · Feb–Jun 2025 — Built [RAG-TEND](https://github.com/Oppen-OC/RAG-TEND-TFG) solo, my bachelor's thesis: tender scraping, RAG extraction of 47 fields into SQL Server and a Django dashboard.
+- **Software Intern** · PROYECO · Jul–Sep 2024 — Streamlit and LangChain tool that reads tender PDFs (OCR for scans) and fills an internal tender sheet automatically.
 
 ## Featured projects
 
