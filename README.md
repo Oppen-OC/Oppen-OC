@@ -20,6 +20,6 @@ I build data pipelines end to end: batch and streaming ingestion, modelling, dat
 ## Stack
 
 - **Languages:** Python, SQL, C, Bash
-- **Data engineering:** Spark (Structured Streaming), dbt, DuckDB, PostgreSQL, Delta Lake, Debezium, Redis Streams, SQL Server
+- **Data engineering:** Spark (Structured Streaming), dbt, DuckDB, Polars, pandas, PostgreSQL, AWS Redshift, Delta Lake, Debezium, Redis Streams, SQL Server
 - **ML / AI:** XGBoost, LightGBM, Optuna, MLflow, DVC, LangChain, RAG
-- **Platforms & tooling:** Docker, GitHub Actions, Databricks, FastAPI, Streamlit
+- **Platforms & tooling:** Docker, GitHub Actions, Databricks, FastAPI, Django, Streamlit
